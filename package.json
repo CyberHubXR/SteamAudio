@@ -1,0 +1,16 @@
+{
+    "name": "com.cyberhub.foundry.spatialaudio.steamaudio",
+    "displayName": "Steam Spatial Audio for Foundry",
+    "version": "0.1.4-preview",
+    "unity": "2021.3",
+    "description": "An implementation of Foundry Spatial Audio built with Steam Audio.",
+    "keywords": [
+        "foundry",
+        "spatialaudio",
+        "SteamAudio"
+    ],
+    "category": "SpatialAudio",
+    "dependencies": {
+        "com.cyberhub.foundry.core": "0.1.4-preview"
+    }
+}
